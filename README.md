@@ -8,7 +8,7 @@
 
 ---
 
-## 🧙 Character Profile
+##  Character Profile
 
 ```yaml
 Name: Rajithran
@@ -17,3 +17,5 @@ Class: Full-Stack Warrior
 Weapon: React ⚛️ | Node ⚙️ | MongoDB 🧪 | Strategy 🧠
 Special Move: Code Storm 🌪️
 Alignment: ⚡ Discipline | 🔥 Passion | 💎 Legacy
+
+[![Rajithran's GitHub stats](https://github-readme-stats.vercel.app/api?username=P-Rajithran&show_icons=true&theme=tokyonight)](https://github.com/P-Rajithran)

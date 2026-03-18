@@ -105,7 +105,7 @@ contact         : rajithran83@gmail.com
 | **Vetro Clothing** — eCommerce · JWT auth · cart · admin | MERN | [▸ Live](https://github.com/P-Rajithran) |
 | **Solo Leveling Portfolio** — video bg · custom cursor · scan FX | React | [▸ Live](https://github.com/P-Rajithran) |
 | **Solo Level Up App** — habit tracker mobile app | React Native + Node | 🔨 In Progress |
-| **Dad's Electrical Services** — service landing page | React + Vite | 🔨 In Progress |
+
 
 </div>
 

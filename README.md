@@ -1,7 +1,7 @@
 <div align="center">
 
 ```
-[ SYSTEM GATE — HUNTER PROFILE UNLOCKED ]
+[ BUILD. DEPLOY. REPEAT. ]
 ```
 
 # Rajithran P
